@@ -1,4 +1,4 @@
-name: "OpenVPN-Connect"
+name: "OpenVPN-Connect-Windows-PS"
 description: "connect to OpenVPN server"
 branding:
   icon: "lock"
